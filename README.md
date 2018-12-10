@@ -40,3 +40,14 @@ the Fraud_Detection.ipynb file in the browser and run it.
 
 Note: 
 The plots and decision tree graph will be saved as .png file in the code folder post execution of Fraud_detection.py script.
+
+Decision Tree:
+![Decision Tree](https://github.com/nishthajain/Fraud-Detection/blob/master/code/dtree_pipe.png?raw=true)
+
+Model Evaluation Result:
+
+![ROC](https://github.com/nishthajain/Fraud-Detection/blob/master/code/DT_ROC.png?raw=true)
+
+Feature Importance Plot:
+
+![Feature Importance](https://github.com/nishthajain/Fraud-Detection/blob/master/code/feature_imp_dt.png?raw=true)
